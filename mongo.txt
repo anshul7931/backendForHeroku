@@ -1,0 +1,1 @@
+mongod --dbpath="D:\work\angular6\frontend\data" in C:\Program Files\MongoDB\Server\4.0\bin>
